@@ -1,8 +1,11 @@
-# React + Vite
+# FFC React project 5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created with React + Vite
 
-Currently, two official plugins are available:
+It passes all the required tests for the 25-5 clock project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View the project here : [25-5 Clock](https://luke-h42.github.io/ffc-25-5-clock/)
+
+![image](https://github.com/luke-h42/ffc-25-5-clock/assets/143758363/ccea2b78-b7ee-404b-999d-b4a07c3f4bd0)
+
+
